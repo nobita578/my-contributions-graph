@@ -1,2 +1,1 @@
-Contribution: 2050-12-31 20:02
-
+**Disclaimer:** This repository contains simulated commit activity for educational purposes only. It is intended to demonstrate the potential for manipulation of contribution graphs and highlight the limitations of using such metrics to evaluate developer performance. This repository should not be used for any other purpose, including but not limited to, misrepresentation of developer activity or any form of fraudulent activity.
